@@ -1,8 +1,5 @@
 # HemoWin
 
-EERD:
-
-
 Read me: 
 Setup for jar:
 – Make sure the jar and the config.properties file are in the same directory.
